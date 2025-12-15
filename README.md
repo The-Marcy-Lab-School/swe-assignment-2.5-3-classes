@@ -1,6 +1,7 @@
 # Assignment 2.5.3 - Classes
 
 - [Overview](#overview)
+- [Setup](#setup)
 - [Short Response](#short-response)
 - [Problem 1: Inheritance and Polymorphism - Media Player](#problem-1-inheritance-and-polymorphism---media-player)
   - [Part 1: MediaItem class (parent)](#part-1-mediaitem-class-parent)
@@ -23,6 +24,22 @@ In this assignment, you will practice implementing classes in JavaScript. There 
 We've provided example usage that you can use to manually test your code. Do this first.
 
 Then, run `npm test` to verify your implementations before submitting.
+
+## Setup
+
+For guidance on setting up and submitting this assignment, refer to the Marcy lab School Docs How-To guide for [Working with Short Response and Coding Assignments](https://marcylabschool.gitbook.io/marcy-lab-school-docs/how-tos/working-with-assignments#how-to-work-on-assignments).
+
+Here are some useful commands to remember.
+
+```sh
+git checkout -b draft   # switch to the draft branch before starting
+
+git add -A              # add a changed file to the staging area
+git commit -m 'message' # create a commit with the changes
+git push                # push the new commit to the remote repo
+```
+
+When you are finished, create a pull request and tag your instructor for review.
 
 ---
 
