@@ -1,0 +1,19 @@
+{
+  "name": "swe-assignment-2.5-3-classes",
+  "version": "1.0.0",
+  "description": "Classes Assignment covering inheritance and polymorphism and composition patterns",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
